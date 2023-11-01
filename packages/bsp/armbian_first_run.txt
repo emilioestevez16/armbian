@@ -27,8 +27,8 @@ FR_net_wifi_enabled=0
 #Enter your WiFi creds
 #	SECURITY WARN: Your wifi keys will be stored in plaintext, no encryption.
 
-FR_net_wifi_ssid='MySSID'
-FR_net_wifi_key='MyWiFiKEY'
+FR_net_wifi_ssid='Totalplay-2CA7'
+FR_net_wifi_key='2CA7E9A2dhM3M4an'
 
 #	Country code to enable power ratings and channels for your country. eg: GB US DE | https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
